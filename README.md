@@ -20,4 +20,4 @@ En MainBoltzmann.py se solicitan las siguientes cantidades para generar la simul
 Tras tenerlas todas declaradas, ejecutar el mismo archivo dará inicio a la dinámica de partículas así como la distribución de velocidades además de la temperatura del sistema.
 
 ## Ejemplo : 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/FedeSS99/DistribucionBoltzmann/blob/master/EjemploSimulacion.png?raw=true)
