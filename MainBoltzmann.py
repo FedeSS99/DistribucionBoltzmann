@@ -1,5 +1,13 @@
 from ClaseBoltzmann import SimBoltzmann
 from ClaseGraficaSim import PyQtSim
+"""
+Código principal que solicita las cantidades físicas enlistadas como
+el número de particulas, la velocidad máxima, el paso de tiempo, dimensiones
+de la caja así como la masa y el radio de las partículas para simular un gas
+ideal y demostrar la distribución de Maxwell-Boltzmann
+
+Propietario : Federico Salinas Samaniego
+"""
 
 if __name__ == "__main__":
     #Todas las magnitudes física en unidades del SI
